@@ -32,7 +32,7 @@ Other interview Questions:
 3. Where we can reduce the partitions.
 4. How to improve performance in Hive.
 5. Difference between Hive and other datawarehouse tools.
-
+6.Worked as ETL -developer in various tools such as Informatica/Abinitio. Also, have 3+ years of experience in Big Data technologies such as Spark with functional Programming languages(Python, Scala), Hive, Snowflake. Familiar with AWS S3, Redshift, SNS and EMR.
 
 If you are having 8+ years experience then focus on -
 Performance Tuning Part & Design Aspects
