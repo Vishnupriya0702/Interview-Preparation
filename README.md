@@ -13,16 +13,26 @@ You should learn the below things
 1. Distributed Computing Fundamentals
 2. Data Lake - HDFS/Amazon S3
 3. One data ingestion tool - Ex Sqoop
-4. DWH concepts - Hive
-5. One NOSQL Database - Hbase/cassandra
-6. Functional programming - Scala/Python
-7. In-memory computation using Apache Spark
-8. Structured Streaming with Kafka for real time data
-9. One of the Cloud - AWS/Azure/GCP
-10. Integration of various components
-11. One Scheduling/Monitoring tool - Airflow
-12. CICD for production readiness
-13. Do a couple of projects to get a good feel of it.
+4. Air flow, oozie, zookeeper.
+5. DWH concepts - Hive
+6. One NOSQL Database - Hbase/cassandra
+7. Functional programming - Scala/Python
+8. In-memory computation using Apache Spark
+9. Structured Streaming with Kafka for real time data
+10. One of the Cloud - AWS/Azure/GCP
+11. Integration of various components
+12. One Scheduling/Monitoring tool - Airflow
+13. CICD for production readiness
+14. Do a couple of projects to get a good feel of it.
+15. End to end Project feel.
+
+Other interview Questions:
+1. Difference between ETL & Hadoop
+2. How to improve performance in Spark
+3. Where we can reduce the partitions.
+4. How to improve performance in Hive.
+5. Difference between Hive and other datawarehouse tools.
+
 
 If you are having 8+ years experience then focus on -
 Performance Tuning Part & Design Aspects
